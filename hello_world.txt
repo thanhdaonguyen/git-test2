@@ -1,0 +1,1 @@
+Hi, I've just open this file by typing "open hello_world.txt"
